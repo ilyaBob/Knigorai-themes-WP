@@ -14,7 +14,7 @@
       <header class="header">
          <div class="container">
             <div class="header__inner-header">
-               <a href="/wordpress/" class="header__logo">
+               <a href="/" class="header__logo">
                   <h1 class="header__logo-title">KnigoRai</h1>
                   <div class="header__logo-sub-title">Слушай вместе с нами</div>
                </a>
